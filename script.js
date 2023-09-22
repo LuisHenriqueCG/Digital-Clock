@@ -1,4 +1,4 @@
-const WEEK = ["SEG", "TER", "QUA", "QUI", "SEX", "SAB", "DOM"];
+const WEEK = ["DOM", "SEG", "TER", "QUA", "QUI", "SEX", "SAB"];
 
 function updateTime() {
     var now = new Date();
